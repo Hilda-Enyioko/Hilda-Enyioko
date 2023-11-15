@@ -11,3 +11,6 @@
 - ⚡ Fun fact: ...
 -->
 ## 📫 Get In Touch
+ - 📧 E-mail: enyiokohilda@gmail.com
+ - ℹ️ LinkedIn: [Hilda Enyioko](https://www.linkedin.com/in/hilda-enyioko-651b06231)
+ - 🍬 Twitter: [Hilda Enyioko](https://x.com/hildahaemaxwell?)
