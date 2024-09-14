@@ -8,7 +8,7 @@
 - HTML
 - CSS
 - Javascript
-- ![Figma Icon](https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg) Figma
+- <img alt="figma icon" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="15px" height="18px" /> Figma
 - Bootstrap
 
 
