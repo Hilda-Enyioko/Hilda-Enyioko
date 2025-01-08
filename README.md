@@ -8,6 +8,7 @@
 - <img alt="HTML5 icon" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="15px" height="18px" /> HTML5
 - <img alt="CSS3 icon" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="15px" height="18px" /> CSS
 - <img alt="Javascript icon" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="15px" height="18px" /> Javascript
+- <img alt="React icon" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="15px" height="18px"/> React
 - <img alt="figma icon" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="15px" height="18px" /> Figma
 - <img alt="Bootstrap icon" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="15px" height="18px" /> Bootstrap
 
