@@ -20,9 +20,9 @@ I specialize in building accessible, responsive, and performance-driven projects
 
 ## 🔭 Featured Projects  
 - **[Inclusive Talks](https://github.com/Hilda-Enyioko/Inclusive-Talks)** - A blog website advocating for diversity and inclusion, built collaboratively with my team.  
-- **[GreenCart by EcoTribe]()** - **The Winning Project of Hack4Futo: The Third**. This is a platform that connects businesses for the purpose of buying and selling waste products which can be recycled, ensuring environmental sustainability.
+- **[GreenCart by EcoTribe](https://github.com/michaelEmeka/GreenCart)** - **The Winning Project of Hack4Futo: The Third**. This is a platform that connects businesses for the purpose of buying and selling waste products which can be recycled, ensuring environmental sustainability.
   
-- **[Nivea NG Clone]()** - This is a clone of **[Nivea NG](https://www.nivea.ng)** landing page built with JavaScript.
+- **[Nivea NG Clone](https://github.com/Hilda-Enyioko/Nivea-Clone)** - This is a clone of **[Nivea NG](https://www.nivea.ng)** landing page built with JavaScript.
 
 ---
 
