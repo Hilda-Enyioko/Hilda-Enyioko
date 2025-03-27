@@ -29,7 +29,6 @@ I specialize in building accessible, responsive, and performance-driven projects
 ## 📊 GitHub Stats  
 <p align="left">  
   <img src="https://github-readme-stats.vercel.app/api?username=Hilda-Enyioko&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hilda-Enyioko&theme=radical" alt="GitHub Streak" width="48%" />  
 </p>  
 
 ---
