@@ -38,8 +38,7 @@ Currently, I’m **enhancing my backend and data visualization skills** to creat
 ## 📈 GitHub Stats  
 
 <p align="left">  
-  <img src="https://github-readme-stats.vercel.app/api?username=Hilda-Enyioko&show_icons=true&theme=radical" alt="Hilda's GitHub Stats" width="48%"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hilda-Enyioko&theme=radical" alt="GitHub Streak" width="48%"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=Hilda-Enyioko&show_icons=true&theme=radical" alt="Hilda's GitHub Stats" />
 </p>  
 
 ---
