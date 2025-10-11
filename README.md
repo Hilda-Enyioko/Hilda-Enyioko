@@ -22,7 +22,7 @@ Currently, I’m **enhancing my backend and data visualization skills** to creat
   <img src="https://img.icons8.com/ios-filled/50/000000/api.png" alt="API Integration" width="40" height="40"/>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>    
-  <img src="https://github.com/devicons/devicon/blob/master/python/python-original.svg" alt="Python" width="40" height="40"/>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>  
 </p> 
 
 ---
