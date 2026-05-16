@@ -1,160 +1,64 @@
-<div align="center">
+# Hilda Enyioko
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,50:1a1a3e,100:0d1117&height=120&section=header" width="100%"/>
+Software Developer · Electronic Engineering Student · Community Builder
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║        Hi, I'm Hilda Enyioko  👋                            ║
-║        Software Developer · Backend Engineer                 ║
-║        Building systems that actually work in production.    ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hilda-amarachi-enyioko)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enyiokohilda@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hilda-Enyioko)
-
-</div>
+[Portfolio](http://hilda-enyioko-portfolio.vercel.app/) · [LinkedIn](https://linkedin.com/in/hilda-amarachi-enyioko) · [Email](mailto:enyiokohilda@gmail.com)
 
 ---
 
-### `$ whoami`
+## About
 
-```python
-class HildaEnyioko:
-    def __init__(self):
-        self.role         = "Software Developer"
-        self.education    = "B.Eng Electronic Engineering @ FUTO (2026)"
-        self.location     = "Nigeria 🇳🇬"
-        self.focus        = ["Backend Systems", "REST APIs", "Fintech", "IoT"]
-        self.currently    = "Final year + Building in public"
-        self.community    = "Community Lead @ Interswitch Developer Community, FUTO"
+Final-year Electronic Engineering student at the Federal University of Technology, Owerri (FUTO), graduating August 2026. I build full-stack web applications with a focus on fintech infrastructure, REST API design, and backend systems.
 
-    def stack(self):
-        return {
-            "languages":   ["Python", "TypeScript", "JavaScript", "SQL"],
-            "backend":     ["Django", "Django REST Framework", "JWT Auth", "RBAC"],
-            "frontend":    ["React.js", "TailwindCSS", "Remix", "Framer Motion"],
-            "tools":       ["Docker", "Postman", "GitHub Actions", "Gunicorn"],
-            "platforms":   ["Railway", "Render", "Vercel", "Firebase"],
-            "design":      ["REST Architecture", "RBAC", "Schema Design", "API Security"],
-        }
-```
+Currently building TheeInsurance Portal — an API-first insurance distribution platform for the Nigerian market — and leading the Interswitch Developer Community at FUTO, where I've directly impacted 400+ students through technical workshops and open-source projects.
 
 ---
 
-### `$ ls ./skills`
+## Tech Stack
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=flat-square&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-</div>
+**Languages** — Python · TypeScript · JavaScript · SQL  
+**Backend** — Django · Django REST Framework · JWT Auth · RBAC  
+**Frontend** — React.js · TailwindCSS · Remix  
+**Tools** — Docker · Postman · GitHub Actions · Gunicorn  
+**Platforms** — Railway · Render · Vercel · Firebase  
 
 ---
 
-### `$ cat ./projects`
+## Selected Projects
 
-<table>
-<tr>
-<td width="50%">
+**[TheeInsurance Portal](https://github.com/Hilda-Enyioko/theeinsurance-portal)**  
+API-first insurance distribution platform for Nigeria. Decoupled React/TypeScript frontend and Django REST Framework backend with JWT auth, custom claim injection, RBAC, and OpenAPI documentation.
 
-**🏥 TheeInsurance Portal**
-> Full-stack insurance platform with decoupled React/TypeScript frontend and DRF backend.
-> JWT auth with custom claim injection · RBAC · OpenAPI docs · Railway + Vercel
+**[Fashion Inventory & Order API](https://github.com/Hilda-Enyioko/fashion-order-management-api)**  
+Production-ready REST API for inventory, order, and customer management. Built with DRF, JWT token blacklisting, object-level permissions, and Swagger documentation.
 
-[![Repo](https://img.shields.io/badge/View_Repo-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/Hilda-Enyioko/theeinsurance-portal)
+**[Zada Afrique](https://github.com/Hilda-Enyioko/Zada-Afrique)**  
+E-commerce platform for an Afro-centric fashion brand. React.js, Framer Motion, Firebase Firestore, EmailJS — mobile-first and fully responsive.
 
-</td>
-<td width="50%">
-
-**👗 Fashion Inventory & Order API**
-> Production-ready REST API for inventory, orders, and customer management.
-> DRF · JWT with token blacklisting · Object-level permissions · Swagger docs
-
-[![Repo](https://img.shields.io/badge/View_Repo-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/Hilda-Enyioko/fashion-order-management-api)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🌍 Zada Afrique**
-> E-commerce platform for an Afro-centric fashion brand.
-> React.js · Framer Motion · Firebase Firestore · EmailJS · Mobile-first
-
-[![Repo](https://img.shields.io/badge/View_Repo-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/Hilda-Enyioko/Zada-Afrique)
-
-</td>
-<td width="50%">
-
-**♻️ GreenCart by EcoTribe**
-> Sustainable e-commerce platform connecting businesses to recycle waste.
-> React · Context API cart · Advanced product filters · 🏆 Won Hack4FUTO III
-
-[![Repo](https://img.shields.io/badge/View_Repo-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/michaelEmeka/GreenCart)
-
-</td>
-</tr>
-</table>
+**[GreenCart by EcoTribe](https://github.com/michaelEmeka/GreenCart)**  
+Sustainable e-commerce platform connecting businesses to waste recycling solutions. Built with React and Context API. 🏆 Won Hack4FUTO III.
 
 ---
 
-### `$ cat ./experience`
+## Experience
 
-```
-▸ Interswitch Group       Community Lead, IDC FUTO        Nov 2025 – Present
-  └─ 400+ students impacted · 10+ technical workshops · open-source projects
+**Interswitch Group** — Community Lead, IDC FUTO · Nov 2025 – Present  
+Facilitated 10+ technical workshops on REST APIs and payment integrations, directly impacting 400+ students. Managing two open-source education-focused projects from architecture through deployment.
 
-▸ Stanbic IBTC Group      IT Intern, Software Development  Jun 2025 – Nov 2025
-  └─ Backend logic · API debugging · Unit testing · Linux deployments
+**Stanbic IBTC Group** — IT Intern, Software Development · Jun 2025 – Nov 2025  
+Developed backend logic and frontend components for 3+ internal enterprise applications. Resolved critical API integration failures across production systems and achieved 85%+ unit test coverage.
 
-▸ Netwalkers NG           Frontend Developer Intern        Sep 2024 – Oct 2024
-  └─ Responsive UIs · jQuery · Client-facing pharmacy interface
-```
+**She Code Africa** — Chapter Lead, Owerri · Apr 2026 – Present  
+Running a virtual-first chapter supporting women in tech across Owerri through monthly programming, campus visits to FUTO, IMSU, Alvan Ikoku, and Nekede, and a Girl Child Tech Day event.
 
 ---
 
-### `$ cat ./github-stats`
+## Currently
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Hilda-Enyioko&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hilda-Enyioko&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-
-</div>
+- Completing B.Eng Electronic Engineering at FUTO — August 2026
+- Open to software engineering roles, fintech opportunities, and speaking engagements
+- Deepening: system design, distributed systems, data engineering
 
 ---
 
-### `$ cat ./currently`
-
-```bash
-📚  Finishing B.Eng Electronic Engineering @ FUTO (Aug 2026)
-🔧  Deepening: System Design · DSA · Distributed Systems
-🌱  Open to: Remote SWE roles · MLH Fellowship · Fintech opportunities  
-🎯  Building: Developer community at FUTO through Interswitch IDC
-✍️  Writing about: Backend architecture, payment integrations, IoT + Web
-```
-
----
-
-<div align="center">
-
-*"Ship code that solves real problems. Document the hard parts. Build in public."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a3e,100:0f0f23&height=80&section=footer" width="100%"/>
-
-</div>
+*"The vision gets clearer with momentum. Keep going!"*
