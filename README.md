@@ -29,7 +29,7 @@ Currently building TheeInsurance Portal — an API-first insurance distribution 
 **[PAT](https://github.com/Hilda-Enyioko/pat)**
 Solana-based offline payment system enabling users to reserve funds while online and authorize payments offline using signed PaymentIntents and QR codes. Built with Rust, Anchor, Solana, and a Progressive Web App, with on-chain reservation logic to prevent double-spending. Outcome: Built an end-to-end prototype enabling offline payment authorization and subsequent on-chain settlement.
 
-**[TheeInsurance Portal](https://github.com/Hilda-Enyioko/theemain)**  
+**[TheeInsurance Portal](https://github.com/Hilda-Enyioko/theeinsurance-infrastructure)**  
 API-first insurance distribution platform for Nigeria. Decoupled React/TypeScript frontend and Django REST Framework backend with JWT auth, custom claim injection, RBAC, and OpenAPI documentation.
 
 **[GreenCart by EcoTribe](https://github.com/michaelEmeka/GreenCart)**  
