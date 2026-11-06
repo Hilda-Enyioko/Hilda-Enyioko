@@ -2,7 +2,7 @@
 
 Software Developer · Electronic Engineering Student · Community Builder
 
-[Portfolio](http://hilda-enyioko-portfolio.vercel.app/) · [LinkedIn](https://linkedin.com/in/hilda-amarachi-enyioko) · [Email](mailto:enyiokohilda@gmail.com)
+[Portfolio](http://hilda-enyioko.vercel.app/) · [LinkedIn](https://linkedin.com/in/hilda-amarachi-enyioko) · [Email](mailto:enyiokohilda@gmail.com)
 
 ---
 
