@@ -8,7 +8,8 @@ Software Developer · Electronic Engineering Student · Community Builder
 
 ## About
 
-Final-year Electronic Engineering student at the Federal University of Technology, Owerri (FUTO), graduating August 2026. I build full-stack web applications with a focus on fintech infrastructure, REST API design, and backend systems.
+Software Engineer.
+I build full-stack web applications with a focus on enterprise and fintech infrastructure, REST API design, and backend systems.
 
 Currently building TheeInsurance Portal — an API-first insurance distribution platform for the Nigerian market — and leading the Interswitch Developer Community at FUTO, where I've directly impacted 400+ students through technical workshops and open-source projects.
 
